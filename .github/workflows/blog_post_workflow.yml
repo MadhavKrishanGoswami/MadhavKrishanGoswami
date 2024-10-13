@@ -16,8 +16,9 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'MadhavKrishanGoswami' # Hashnode Username
+          USERNAME: '@MadhavKrishanGoswami' # Hashnode Username
           BLOG_URL: 'https://madhavkrishangoswami.hashnode.dev/' # Blog URL
-          COUNT: 10 # MAX Visisble
+          COUNT: 2 # MAX Visisble
+          STYLE: blog-right
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
