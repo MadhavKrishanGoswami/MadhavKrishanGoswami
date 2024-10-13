@@ -15,13 +15,8 @@
 - 📄 Know about my experiences [drive link here](drive link here)
 
 ### Read My Latest Blog Post
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Kubernetes Architecture: Nodes and Planes Explained](https://madhavkrishangoswami.hashnode.dev/understanding-kubernetes-architecture-nodes-and-planes-explained)
-- [Why Kubernetes is a Game-Changer for IT Infrastructure](https://madhavkrishangoswami.hashnode.dev/why-kubernetes-is-a-game-changer-for-it-infrastructure)
-- [How to Interact with Docker Containers: A Complete Guide](https://madhavkrishangoswami.hashnode.dev/how-to-interact-with-docker-containers-a-complete-guide)
-- [How to Run Docker Containers: Docker Run and Docker Compose 🐋](https://madhavkrishangoswami.hashnode.dev/how-to-run-docker-containers-docker-run-and-docker-compose)
-- [Best Practices for Crafting Efficient Dockerfiles🐋](https://madhavkrishangoswami.hashnode.dev/best-practices-for-crafting-efficient-dockerfiles)
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
