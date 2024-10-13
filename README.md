@@ -34,7 +34,7 @@
 </p>
 
 ### 📊 My GitHub Stats
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=MadhavKrishanGoswami&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavKrishanGoswami&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
