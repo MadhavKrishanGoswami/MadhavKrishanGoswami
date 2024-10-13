@@ -28,7 +28,7 @@
   <a href="https://discord.gg/828986901087780894" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/discord.png" alt="Discord" height="40" width="40" />
   </a>
-  <a href="https://madhavkrishangoswami.hashnode.dev/rss.xml" target="_blank">
+  <a href="https://madhavkrishangoswami.hashnode.dev/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/rss.png" alt="RSS Feed" height="40" width="40" />
   </a>
 </p>
@@ -37,6 +37,5 @@
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MadhavKrishanGoswami&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavKrishanGoswami&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavKrishanGoswami&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </p>
 
