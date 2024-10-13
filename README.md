@@ -19,8 +19,8 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://twitter.com/goswamimadhav24" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="40" width="40" />
+  <a href="https://madhavkrishangoswami.hashnode.dev" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/hashnode.png" alt="Hashnode" height="40" width="40" />
   </a>
   <a href="https://linkedin.com/in/madhavkrishangoswami" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
