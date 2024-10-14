@@ -6,7 +6,7 @@
 - 📝 I regularly share my insights and experiences on [my Hashnode blog](https://madhavkrishangoswami.hashnode.dev)
 - 💬 Feel free to ask me anything about **DevOps**, **Web Development**, or **Cloud Technologies**
 - 📫 You can reach me at: [goswamimadhavkrishan@gmail.com](mailto:goswamimadhavkrishan@gmail.com)
-- 📄 Want to know more about my professional background? Check out [My Resume](#).
+- 📄 Want to know more about my professional background? Check out [My Resume](https://drive.google.com/file/d/18brPaL8uSjNeeCnIZ0Os7EqiKnMBTCnG/view?usp=sharing).
 
 ---
 
