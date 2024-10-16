@@ -12,6 +12,7 @@
 
 ### 📚 Read My Latest Blog Post
 <!-- HASHNODE_BLOG:START -->
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1729029011643/cc38a54c-e0eb-433f-bacd-2e27a61466a6.jpeg" alt="Kubernetes Built-In Resources: The Seamless Orchestration of Modern Apps"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/kubernetes-built-in-resources-the-seamless-orchestration-of-modern-apps"><strong>Kubernetes Built-In Resources: The Seamless Orchestration of Modern Apps</strong></a><br>As the tech world moves further into cloud-native applications, Kubernetes has emerged as the de facto platform for managing containerized workloads and services. But what makes Kubernetes so powerful? The secret lies in its many built-in resources t...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ---
