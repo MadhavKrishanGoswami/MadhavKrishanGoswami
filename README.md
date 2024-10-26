@@ -12,7 +12,8 @@
 
 ### 📚 Read My Latest Blog Post
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1729677728938/9daa3485-68b4-45e7-affb-57d73c92a8aa.jpeg" alt="Managing Configuration in Kubernetes: A Practical Guide to ConfigMaps and Secrets"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/managing-configuration-in-kubernetes-a-practical-guide-to-configmaps-and-secrets"><strong>Managing Configuration in Kubernetes: A Practical Guide to ConfigMaps and Secrets</strong></a><br>In the ever-evolving world of containerized applications, Kubernetes has emerged as the go-to tool for orchestrating and managing workloads. But beyond the spinning of pods and balancing of services, there’s a fundamental need that often goes unnotic...</td></tr></table>
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1729366749568/fec05edf-d105-4789-8b5c-478801827461.jpeg" alt="Exploring the Role of Services in Kubernetes"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/exploring-the-role-of-services-in-kubernetes"><strong>Exploring the Role of Services in Kubernetes</strong></a><br>Why Do We Need Services in Kubernetes?
+Imagine you have a web application running smoothly on a single server. As traffic increases, this single server gets overwhelmed, requests slow down, and eventually, users experience downtime. To solve this, yo...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ---
