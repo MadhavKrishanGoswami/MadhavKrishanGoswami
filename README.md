@@ -12,6 +12,7 @@
 
 ### 📚 Read My Latest Blog Post
 <!-- HASHNODE_BLOG:START -->
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1730284707313/fb7c2eb5-b5d0-4cb3-a4b4-b5503c2fca93.jpeg" alt="How to Effectively Manage Resources in Kubernetes"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/how-to-effectively-manage-resources-in-kubernetes"><strong>How to Effectively Manage Resources in Kubernetes</strong></a><br>Have you ever tried to pack for a vacation using a small suitcase? You need to carefully consider what to pack, how to organize items efficiently, and ensure you don't exceed the airline's weight limits. Kubernetes resource management works similarly...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ---
