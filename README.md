@@ -12,7 +12,7 @@
 
 ### 📚 Read My Latest Blog Post
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1730576631823/e506f568-523d-4c8f-9dc1-74c2b139bcde.png" alt="Kubernetes Workloads: DaemonSets, CronJobs, and Jobs"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/kubernetes-workloads-daemonsets-cronjobs-and-jobs"><strong>Kubernetes Workloads: DaemonSets, CronJobs, and Jobs</strong></a><br>As containerized applications become increasingly complex, understanding different Kubernetes workload types is crucial for effective cluster management. In this article, we'll dive deep into three essential Kubernetes workload types: DaemonSets, Cro...</td></tr></table>
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1730721947306/58649435-e50d-4a64-acc8-ad29d1238390.webp" alt="Autoscaling in Kubernetes: Scaling Your Applications the Smart Way"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/autoscaling-in-kubernetes-scaling-your-applications-the-smart-way"><strong>Autoscaling in Kubernetes: Scaling Your Applications the Smart Way</strong></a><br>Have you ever found yourself manually adjusting your Kubernetes resources at 3 AM because of an unexpected traffic spike? Or perhaps you're tired of over-provisioning resources "just in case"? If these scenarios sound familiar, you're not alone. This...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ---
