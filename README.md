@@ -12,7 +12,7 @@
 
 ### 📚 Read My Latest Blog Post
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731159963552/ac4abe85-aa71-4016-95ae-2bfce86732b7.jpeg" alt="AWS IAM Essentials: Secure Your Cloud with This Complete Guide"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/aws-iam-essentials-secure-your-cloud-with-this-complete-guide"><strong>AWS IAM Essentials: Secure Your Cloud with This Complete Guide</strong></a><br>Have you ever wondered how large organizations manage access to their AWS resources across hundreds or even thousands of employees? Imagine running a busy restaurant where different staff members need different levels of access - chefs need access to...</td></tr></table>
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731237308997/bf5e487b-0a4b-4f24-a967-b472eeccff05.webp" alt="Ultimate AWS EC2 Guide: Learn Basics and Best Practices"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/ultimate-aws-ec2-guide-learn-basics-and-best-practices"><strong>Ultimate AWS EC2 Guide: Learn Basics and Best Practices</strong></a><br>Have you ever wondered how companies deploy and manage their applications in the cloud? Amazon EC2 (Elastic Compute Cloud) is often the answer. Whether you're a developer looking to host your first web application or a system administrator planning t...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ---
