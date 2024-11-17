@@ -12,7 +12,7 @@
 
 ### 📚 Read My Latest Blog Post
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731237308997/bf5e487b-0a4b-4f24-a967-b472eeccff05.webp" alt="Ultimate AWS EC2 Guide: Learn Basics and Best Practices"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/ultimate-aws-ec2-guide-learn-basics-and-best-practices"><strong>Ultimate AWS EC2 Guide: Learn Basics and Best Practices</strong></a><br>Have you ever wondered how companies deploy and manage their applications in the cloud? Amazon EC2 (Elastic Compute Cloud) is often the answer. Whether you're a developer looking to host your first web application or a system administrator planning t...</td></tr></table>
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731750290005/9edfe0ba-e43f-4b5b-b900-658b0b2f925e.jpeg" alt="AWS Lambda and Serverless Architecture Explained: A Full Guide"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/aws-lambda-and-serverless-architecture-explained-a-full-guide"><strong>AWS Lambda and Serverless Architecture Explained: A Full Guide</strong></a><br>Imagine you're running a restaurant. Instead of maintaining a full kitchen staff 24/7, what if you could magically summon exactly the number of chefs you need, exactly when you need them, and only pay for their actual cooking time? That's essentially...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ---
