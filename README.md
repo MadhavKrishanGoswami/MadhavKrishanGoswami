@@ -12,7 +12,7 @@
 
 ### 📚 Read My Latest Blog Post
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731750290005/9edfe0ba-e43f-4b5b-b900-658b0b2f925e.jpeg" alt="AWS Lambda and Serverless Architecture Explained: A Full Guide"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/aws-lambda-and-serverless-architecture-explained-a-full-guide"><strong>AWS Lambda and Serverless Architecture Explained: A Full Guide</strong></a><br>Imagine you're running a restaurant. Instead of maintaining a full kitchen staff 24/7, what if you could magically summon exactly the number of chefs you need, exactly when you need them, and only pay for their actual cooking time? That's essentially...</td></tr></table>
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731865662677/aad78de5-df30-4140-8544-b0d75680d56f.png" alt="Understanding Amazon VPC: A Complete Guide to Virtual Private Cloud Architecture"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/understanding-amazon-vpc-a-complete-guide-to-virtual-private-cloud-architecture"><strong>Understanding Amazon VPC: A Complete Guide to Virtual Private Cloud Architecture</strong></a><br>In today's cloud-first world, imagine building your dream house. You wouldn't want it sitting exposed on an open plot of land – you'd want it in a secure, gated community with controlled access points, security systems, and carefully planned connecti...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ---
