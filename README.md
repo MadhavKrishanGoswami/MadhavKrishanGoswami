@@ -12,7 +12,7 @@
 
 ### 📚 Read My Latest Blog Post
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731865662677/aad78de5-df30-4140-8544-b0d75680d56f.png" alt="Understanding Amazon VPC: A Complete Guide to Virtual Private Cloud Architecture"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/understanding-amazon-vpc-a-complete-guide-to-virtual-private-cloud-architecture"><strong>Understanding Amazon VPC: A Complete Guide to Virtual Private Cloud Architecture</strong></a><br>In today's cloud-first world, imagine building your dream house. You wouldn't want it sitting exposed on an open plot of land – you'd want it in a secure, gated community with controlled access points, security systems, and carefully planned connecti...</td></tr></table>
+<table><tr><td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1730458231084/66fea381-00db-4909-8c01-03bbc2912b50.webp" alt="Linux Fundamentals: Your Friendly Guide to Linux Essential"></td><td><a href="https://madhavkrishangoswami.hashnode.dev/linux-fundamentals-your-friendly-guide-to-linux-essential"><strong>Linux Fundamentals: Your Friendly Guide to Linux Essential</strong></a><br>Ever felt overwhelmed when looking at a Linux terminal? Don't worry! Think of Linux commands as a new language - once you learn the basics, you'll be "speaking Linux" fluently in no time. In this guide, we'll walk through the essential commands that ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ---
