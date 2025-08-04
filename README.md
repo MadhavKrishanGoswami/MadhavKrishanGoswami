@@ -11,8 +11,7 @@
 
 
 ### 🚀 About Me
-- 🔭 I’m currently Learning [Terraform](https://github.com/MadhavKrishanGoswami/Terraform)
-- 🧑‍💻 I’m diving deep into **Kubernetes** ☸️ and **Cloud Native** ☁️ technologies
+- 🔭 I’m currently Learning GO
 - 📝 I regularly share my insights and experiences on [my Hashnode blog](https://madhavkrishangoswami.hashnode.dev)
 - 💬 Feel free to ask me anything about **DevOps**, **Web Development**, or **Cloud Technologies**
 - 📫 You can reach me at: [goswamimadhavkrishan@gmail.com](mailto:goswamimadhavkrishan@gmail.com)
