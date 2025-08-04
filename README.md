@@ -9,14 +9,6 @@
   <img src="https://skillicons.dev/icons?i=git,neovim,linux,bash,jenkins,redis,docker,aws,terraform"/>
 </div>
 
-
-### 🚀 About Me
-- 🔭 I’m currently Learning GO
-- 📝 I regularly share my insights and experiences on [my Hashnode blog](https://madhavkrishangoswami.hashnode.dev)
-- 💬 Feel free to ask me anything about **DevOps**, **Web Development**, or **Cloud Technologies**
-- 📫 You can reach me at: [goswamimadhavkrishan@gmail.com](mailto:goswamimadhavkrishan@gmail.com)
-- 📄 Want to know more about my professional background? Check out [My Resume](https://drive.google.com/file/d/1--TsMAlmAzzvviIOs0bcAGnG9Ooyf3WN/view?usp=sharing).
-
 ---
 
 ### 📚 Read My Latest Blog Post
