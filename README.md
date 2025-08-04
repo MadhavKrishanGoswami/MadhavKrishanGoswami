@@ -1,4 +1,14 @@
 # Hi there, I'm Madhav 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%5689FBA0&center=true&vCenter=true&lines=Backend<3;DevOps;">
+</div>
+<!-- Language & Technology -->
+<h2 align = "center">⚡ Language & Technologies</h1>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,react,next,vite,tailwind,figma,nodejs,express,redux,postgresql,mongo,mysql">
+  <img src="https://skillicons.dev/icons?i=git,neovim,linux,bash,jenkins,redis,docker,aws,terraform"/>
+</div>
+
 
 ### 🚀 About Me
 - 🔭 I’m currently Learning [Terraform](https://github.com/MadhavKrishanGoswami/Terraform)
